@@ -1,0 +1,62 @@
+D:\repos\GTBay\GTBay\obj\Debug\GTBay.csprojResolveAssemblyReference.cache
+D:\repos\GTBay\GTBay\obj\Debug\GTBay.Login.resources
+D:\repos\GTBay\GTBay\obj\Debug\GTBay.Properties.Resources.resources
+D:\repos\GTBay\GTBay\obj\Debug\GTBay.csproj.GenerateResource.cache
+D:\repos\GTBay\GTBay\obj\Debug\GTBay.csproj.CoreCompileInputs.cache
+D:\repos\GTBay\GTBay\bin\Debug\GTBay.exe.config
+D:\repos\GTBay\GTBay\bin\Debug\GTBay.exe
+D:\repos\GTBay\GTBay\bin\Debug\GTBay.pdb
+D:\repos\GTBay\GTBay\obj\Debug\GTBay.exe
+D:\repos\GTBay\GTBay\obj\Debug\GTBay.pdb
+D:\repos\GTBay\GTBay\obj\Debug\GTBay.Register.resources
+D:\repos\GTBay\GTBay\obj\Debug\GTBay.Menu.resources
+D:\repos\GTBay\GTBay\obj\Debug\GTBay.ItemSearch.resources
+D:\repos\GTBay\GTBay\obj\Debug\GTBay.SearchResults.resources
+D:\repos\GTBay\GTBay\obj\Debug\GTBay.ListItem.resources
+D:\repos\GTBay\GTBay\obj\Debug\GTBay.AuctionResults.resources
+D:\repos\GTBay\GTBay\obj\Debug\GTBay.Item.resources
+D:\repos\GTBay\GTBay\obj\Debug\GTBay.CategoryReport.resources
+D:\repos\GTBay\GTBay\obj\Debug\GTBay.UserReport.resources
+D:\repos\GTBay\GTBay\bin\Debug\StarRatingControl.dll
+D:\repos\GTBay\GTBay\obj\Debug\GTBay.ItemRating.resources
+D:\repos\GTBay\GTBay\obj\Debug\GTBay.csproj.CopyComplete
+F:\GA-Tech\Spring 2018\CS6400\6400Spring18Team055\GTBay\GTBay\bin\Debug\GTBay.exe.config
+F:\GA-Tech\Spring 2018\CS6400\6400Spring18Team055\GTBay\GTBay\bin\Debug\GTBay.exe
+F:\GA-Tech\Spring 2018\CS6400\6400Spring18Team055\GTBay\GTBay\bin\Debug\GTBay.pdb
+F:\GA-Tech\Spring 2018\CS6400\6400Spring18Team055\GTBay\GTBay\obj\Debug\GTBay.csprojResolveAssemblyReference.cache
+F:\GA-Tech\Spring 2018\CS6400\6400Spring18Team055\GTBay\GTBay\obj\Debug\GTBay.AuctionResults.resources
+F:\GA-Tech\Spring 2018\CS6400\6400Spring18Team055\GTBay\GTBay\obj\Debug\GTBay.CategoryReport.resources
+F:\GA-Tech\Spring 2018\CS6400\6400Spring18Team055\GTBay\GTBay\obj\Debug\GTBay.Item.resources
+F:\GA-Tech\Spring 2018\CS6400\6400Spring18Team055\GTBay\GTBay\obj\Debug\GTBay.ItemRating.resources
+F:\GA-Tech\Spring 2018\CS6400\6400Spring18Team055\GTBay\GTBay\obj\Debug\GTBay.ItemSearch.resources
+F:\GA-Tech\Spring 2018\CS6400\6400Spring18Team055\GTBay\GTBay\obj\Debug\GTBay.ListItem.resources
+F:\GA-Tech\Spring 2018\CS6400\6400Spring18Team055\GTBay\GTBay\obj\Debug\GTBay.Login.resources
+F:\GA-Tech\Spring 2018\CS6400\6400Spring18Team055\GTBay\GTBay\obj\Debug\GTBay.Menu.resources
+F:\GA-Tech\Spring 2018\CS6400\6400Spring18Team055\GTBay\GTBay\obj\Debug\GTBay.Properties.Resources.resources
+F:\GA-Tech\Spring 2018\CS6400\6400Spring18Team055\GTBay\GTBay\obj\Debug\GTBay.Register.resources
+F:\GA-Tech\Spring 2018\CS6400\6400Spring18Team055\GTBay\GTBay\obj\Debug\GTBay.SearchResults.resources
+F:\GA-Tech\Spring 2018\CS6400\6400Spring18Team055\GTBay\GTBay\obj\Debug\GTBay.UserReport.resources
+F:\GA-Tech\Spring 2018\CS6400\6400Spring18Team055\GTBay\GTBay\obj\Debug\GTBay.csproj.GenerateResource.Cache
+F:\GA-Tech\Spring 2018\CS6400\6400Spring18Team055\GTBay\GTBay\obj\Debug\GTBay.csproj.CoreCompileInputs.cache
+F:\GA-Tech\Spring 2018\CS6400\6400Spring18Team055\GTBay\GTBay\obj\Debug\GTBay.exe
+F:\GA-Tech\Spring 2018\CS6400\6400Spring18Team055\GTBay\GTBay\obj\Debug\GTBay.pdb
+D:\OMSCS\6400\6400Spring18Team055\GTBay\GTBay\bin\Debug\GTBay.exe.config
+D:\OMSCS\6400\6400Spring18Team055\GTBay\GTBay\bin\Debug\GTBay.exe
+D:\OMSCS\6400\6400Spring18Team055\GTBay\GTBay\bin\Debug\GTBay.pdb
+D:\OMSCS\6400\6400Spring18Team055\GTBay\GTBay\obj\Debug\GTBay.csprojResolveAssemblyReference.cache
+D:\OMSCS\6400\6400Spring18Team055\GTBay\GTBay\obj\Debug\GTBay.AuctionResults.resources
+D:\OMSCS\6400\6400Spring18Team055\GTBay\GTBay\obj\Debug\GTBay.CategoryReport.resources
+D:\OMSCS\6400\6400Spring18Team055\GTBay\GTBay\obj\Debug\GTBay.Item.resources
+D:\OMSCS\6400\6400Spring18Team055\GTBay\GTBay\obj\Debug\GTBay.ItemRating.resources
+D:\OMSCS\6400\6400Spring18Team055\GTBay\GTBay\obj\Debug\GTBay.ItemSearch.resources
+D:\OMSCS\6400\6400Spring18Team055\GTBay\GTBay\obj\Debug\GTBay.ListItem.resources
+D:\OMSCS\6400\6400Spring18Team055\GTBay\GTBay\obj\Debug\GTBay.Login.resources
+D:\OMSCS\6400\6400Spring18Team055\GTBay\GTBay\obj\Debug\GTBay.Menu.resources
+D:\OMSCS\6400\6400Spring18Team055\GTBay\GTBay\obj\Debug\GTBay.Properties.Resources.resources
+D:\OMSCS\6400\6400Spring18Team055\GTBay\GTBay\obj\Debug\GTBay.Register.resources
+D:\OMSCS\6400\6400Spring18Team055\GTBay\GTBay\obj\Debug\GTBay.SearchResults.resources
+D:\OMSCS\6400\6400Spring18Team055\GTBay\GTBay\obj\Debug\GTBay.UserReport.resources
+D:\OMSCS\6400\6400Spring18Team055\GTBay\GTBay\obj\Debug\GTBay.csproj.GenerateResource.Cache
+D:\OMSCS\6400\6400Spring18Team055\GTBay\GTBay\obj\Debug\GTBay.csproj.CoreCompileInputs.cache
+D:\OMSCS\6400\6400Spring18Team055\GTBay\GTBay\obj\Debug\GTBay.exe
+D:\OMSCS\6400\6400Spring18Team055\GTBay\GTBay\obj\Debug\GTBay.pdb
